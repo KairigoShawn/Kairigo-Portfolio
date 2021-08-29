@@ -10,39 +10,47 @@ h1{
   font-size: 50px;
   text-align: center;
 }
+
 h2{
   text-align: center;
 }
+
 .rightside{
   float: right;
   padding: 150px;
   font-size: 20px;
   text-align: center;
 }
+
 .image-div{
   align-items: center;
   float: left;
   width: 500px;
   margin-left: 200px;
 }
-.leftside{
+
+.center{
   float: left;
   width: 100%;
   text-align: center;
   font-size: 30px;
 }
+
 #myface {
   width: inherit;
   height:500px;
   border-radius: 100pc ;
 }
+
 h3{
   text-align: center;
 }
+
 .align{
   width: fit-content;
   margin: auto;
 }
+
 .align-center{
   width: fit-content;
   margin: auto;
