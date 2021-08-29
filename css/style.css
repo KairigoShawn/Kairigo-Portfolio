@@ -3,15 +3,26 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+  color: #ffffff;
   
 }
 h1{
-  color: #ffffff;
-  font-size: 35px;
+  font-size: 50px;
   text-align: center;
 }
+.rightside{
+  float: right;
+}
+.image-div{
+  align-items: center;
+  float: left;
+  width: 500px;
+}
 #myface {
-  width: 300px;
-  height: 300px;
+  width: inherit;
+  height:500px;
   border-radius: 100pc ;
+}
+h3{
+  text-align: center;
 }
