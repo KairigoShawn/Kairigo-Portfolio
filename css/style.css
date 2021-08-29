@@ -12,11 +12,19 @@ h1{
 }
 .rightside{
   float: right;
+  padding: 150px;
+  font-size: 20px;
 }
 .image-div{
   align-items: center;
   float: left;
   width: 500px;
+}
+.leftside{
+  float: left;
+  width: 100pc;
+  text-align: center;
+  font-size: 30px;
 }
 #myface {
   width: inherit;
@@ -25,4 +33,12 @@ h1{
 }
 h3{
   text-align: center;
+}
+.align{
+  width: fit-content;
+  margin: auto;
+}
+.align-center{
+  width: fit-content;
+  margin: auto;
 }
