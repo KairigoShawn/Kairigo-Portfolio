@@ -1,8 +1,17 @@
 body {
   background-image: url("../images/bg1.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
 }
 h1{
   color: #ffffff;
   font-size: 35px;
   text-align: center;
+}
+#myface {
+  width: 300px;
+  height: 300px;
+  border-radius: 100pc ;
 }
